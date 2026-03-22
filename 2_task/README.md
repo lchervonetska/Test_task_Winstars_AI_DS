@@ -42,12 +42,28 @@ How the pipeline.py script works:
 - The CNN model identifies the animal in the photo
 - The system compares the results and returns True or False
 
+
+### The following files must be present in the project directory:
+- pipeline.py
+- NER_train.py
+- NER_inference.py
+- Classification_train.py 
+- Classification_inference.py
+- animal_cnn.pth 
+- idx_to_class.json
+- ner_model/
+- 
+### Input Data
+- A text describing an animal
+- An image file (e.g., .jpg, .png)
+
   ### To start type:
   ```bash
   python pipeline.py --text "It's a (name of animal)" --image "your_image.jpg"
 
 
 ## Demo
+
 The notebook with results and pipeline examples is included in this folder.
 If GitHub does not display it correctly, please download the notebook and open it locally.
   
