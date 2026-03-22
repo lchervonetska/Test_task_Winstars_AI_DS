@@ -52,7 +52,7 @@ How the pipeline.py script works:
 - animal_cnn.pth 
 - idx_to_class.json
 - ner_model/
-- 
+ 
 ### Input Data
 - A text describing an animal
 - An image file (e.g., .jpg, .png)
