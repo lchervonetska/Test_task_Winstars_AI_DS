@@ -46,6 +46,10 @@ How the pipeline.py script works:
   ```bash
   python pipeline.py --text "It's a (name of animal)" --image "your_image.jpg"
 
+
+## Demo
+The notebook with results and pipeline examples is included in this folder.
+If GitHub does not display it correctly, please download the notebook and open it locally.
   
 
 
