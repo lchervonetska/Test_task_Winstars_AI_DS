@@ -2,6 +2,10 @@
 
 In the 'Test_task_2' file, you can see my dataset and testing the model
 
+## Note
+GitHub may not display the notebook correctly due to metadata issues from Google Colab.  
+To view the notebook with results, please download the `.ipynb` file and open it locally in Jupyter Notebook or Google Colab.
+
 I used the Animals-10 dataset from Kaggle. Number of classes: 10 (dog, horse, elephant, butterfly, chicken, cat, cow, sheep, spider, squirrel).
 
 During the analysis of the Animals-10 dataset, I observed a significant difference in the number of images between classes.
