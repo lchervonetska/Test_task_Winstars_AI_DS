@@ -1,6 +1,6 @@
 ## Loading the dataset
 
-In the 'Test_task_2' file, you can see my dataset
+In the 'Test_task_2' file, you can see my dataset and testing the model
 
 I used the Animals-10 dataset from Kaggle. Number of classes: 10 (dog, horse, elephant, butterfly, chicken, cat, cow, sheep, spider, squirrel).
 
