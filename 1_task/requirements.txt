@@ -1,0 +1,4 @@
+numpy: for working with arrays and calculating accuracy.
+matplotlib: for visualizing classification errors and plotting MNIST images.
+scikit-learn: for using the RandomForestClassifier algorithm.
+tensorflow: includes Keras, which you use to build neural networks (FFNN and CNN) and load the MNIST dataset.
